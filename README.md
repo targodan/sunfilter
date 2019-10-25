@@ -1,6 +1,8 @@
 # sunfilter <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" />
 
-A 3D printable holder for sun filters for telescopes.
+An utterly overengineered 3D printable holder for sun filters for telescopes.
+
+![Sunfilter](images/filter.png)
 
 ## Disclaimer
 
