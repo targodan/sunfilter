@@ -2,6 +2,18 @@
 
 A 3D printable holder for sun filters for telescopes.
 
+## Disclaimer
+
+I do not take any responsibility for any injuries that come of using this project.
+
+Only ever use *proper* sun filters that filter out at leas 99.999 % of the light.
+
+Before *every* use, check the filter for signs of stretching, holes or other forms of damage.
+
+Do not rely on your 3D printer to produce a light-tight print.
+Additionally you should cover the print in something like aluminum tape.
+Aluminum tape is *NO* proper sun filter, do not use it as such.
+
 ## Maturity of this Project
 
 **As of now, I have not printed a single piece, so it might not work at all.**
